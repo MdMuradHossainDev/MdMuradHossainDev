@@ -21,27 +21,16 @@
 
 <div align="center">
   <a href="https://www.facebook.com/mdmuradhossain.dev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.facebook.com/mdmuradhossain.miu" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://x.com/md_muradhossain" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
-<a href="https://www.pinterest.com/md_murad_hossain/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
 <a href="https://www.instagram.com/mdmuradhossain.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://dribbble.com/mdmuradhossaindev" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a>
 <a href="https://www.linkedin.com/in/mdmuradhossaindev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://followingbook.com/mdmuradhossain" target="_blank"><img src="https://img.shields.io/badge/FollowingBook-000000?style=for-the-badge&logo=book&logoColor=white" alt="FollowingBook"></a>
-<a href="https://calendly.com/mdmuradhossain" target="_blank"><img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"></a>
-<a href="https://mastodon.social/deck/@muradgain" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
-<a href="https://github.com/MdMuradHossainDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.behance.net/mdmuradhosssain" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-<a href="https://about.me/muradgain" target="_blank"><img src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=about.me&logoColor=white" alt="About.me"></a>
-<a href="https://vimeo.com/mdmuradhossain" target="_blank"><img src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Vimeo"></a>
-<a href="https://www.tripadvisor.com/Profile/mdmuradh2025" target="_blank"><img src="https://img.shields.io/badge/TripAdvisor-34E0A1?style=for-the-badge&logo=tripadvisor&logoColor=white" alt="TripAdvisor"></a>
 <a href="https://www.youtube.com/@Md_Murad_HossainDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://stackoverflow.com/users/23236458/md-murad-hossain" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
 <a href="https://www.reddit.com/user/muradgainbd/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://roadmap.sh/u/mdmuradhossaindev" target="_blank"><img src="https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" alt="Roadmap.sh"></a>
-<a href="https://codepen.io/Md-Murad-Hosssain" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
 <a href="https://bsky.app/profile/mdmuradhossain.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
-<a href="https://www.quora.com/profile/Md-Murad-Hossain-187" target="_blank"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora"></a>
 <a href="https://hashnode.com/@mdmuradhossaindev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 <a href="https://dev.to/mdmuradhosssain" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
 <a href="https://community.codenewbie.org/mdmuradhossaindev" target="_blank"><img src="https://img.shields.io/badge/CodeNewbie-000000?style=for-the-badge&logo=codenewbie&logoColor=white" alt="CodeNewbie"></a>
