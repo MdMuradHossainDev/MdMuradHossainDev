@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 About Me
-
+    Md Murad Hossain | Full Stack Developer | Web Designer | IT Specialist
 - 🚀 Passionate **Web Developer & Designer**
 - 📚 Learning **HTML | Tailwind CSS | JavaScript**
 - 🎯 Focused on **Dynamic Web Applications & UI/UX**
